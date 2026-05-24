@@ -1,0 +1,856 @@
+{
+  "champion": {
+    "page": "Natalia Beauty",
+    "pageId": "347189425772727",
+    "count": 9,
+    "longest_days": 24,
+    "avg_days": 21,
+    "domains": [
+      "inlead.digital"
+    ],
+    "has_quiz_signal": true,
+    "has_checkout_signal": false,
+    "has_vsl_signal": false,
+    "queries_matched": [
+      "inlead.digital"
+    ],
+    "sample_hook": "Uma forma diferente de ganhar dinheiro no TikTok Shop, que começou a ser usada há pouco tempo aqui no Brasil.",
+    "sample_cta_type": "LEARN_MORE",
+    "sample_cta_text": "Learn more",
+    "sample_url": "https://www.facebook.com/ads/library/?id=843451888799706",
+    "sample_landing_url": "https://inlead.digital/quiz-vsl-natalia",
+    "sample_display_format": "VIDEO",
+    "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+    "quiz_steps_mapped": 12,
+    "quiz_first_headings": [
+      "Descubra seu caminho para ganhar R$ 2.554 por semana sendo minha sócia no TikTok Shop"
+    ],
+    "quiz_steps_summary": [
+      {
+        "idx": 0,
+        "headings": [
+          "Descubra seu caminho para ganhar R$ 2.554 por semana sendo minha sócia no TikTok Shop"
+        ]
+      },
+      {
+        "idx": 1,
+        "headings": [
+          "🎁 PARABÉNS!",
+          "Você se compromete a responder esse mini quiz?"
+        ]
+      },
+      {
+        "idx": 2,
+        "headings": [
+          "Qual é a sua idade?"
+        ]
+      },
+      {
+        "idx": 3,
+        "headings": [
+          "Qual é o seu objetivo principal hoje?"
+        ]
+      },
+      {
+        "idx": 4,
+        "headings": [
+          "Qual a sua situação atual?"
+        ]
+      },
+      {
+        "idx": 5,
+        "headings": [
+          "Trabalhando o dia todo como CLT, qual é o seu maior desafio para conseguir focar em algo novo hoje?"
+        ]
+      },
+      {
+        "idx": 6,
+        "headings": [
+          "O que mais te MOTIVA a querer ganhar dinheiro online agora?"
+        ]
+      },
+      {
+        "idx": 7,
+        "headings": [
+          "Como você se sente em relação a ganhar dinheiro online HOJE?"
+        ]
+      },
+      {
+        "idx": 8,
+        "headings": [
+          "Você está satisfeita com a sua renda atual?"
+        ]
+      },
+      {
+        "idx": 9,
+        "headings": [
+          "O que te IMPEDIU de ganhar dinheiro na internet até agora?"
+        ]
+      },
+      {
+        "idx": 10,
+        "headings": [
+          "De 0 a 10, o quanto você quer NUNCA MAIS se preocupar com dinheiro no fim do mês?"
+        ]
+      },
+      {
+        "idx": 11,
+        "headings": [
+          "Qual é o seu \"Sonho de Vida\" que o dinheiro tornaria possível?"
+        ]
+      }
+    ],
+    "final_destination": "https://inlead.digital/quiz-vsl-natalia/",
+    "nicho": "Renda extra TikTok Shop"
+  },
+  "ranked": [
+    {
+      "page": "Natalia Beauty",
+      "pageId": "347189425772727",
+      "count": 9,
+      "longest_days": 24,
+      "avg_days": 21,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "Uma forma diferente de ganhar dinheiro no TikTok Shop, que começou a ser usada há pouco tempo aqui no Brasil.",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=843451888799706",
+      "sample_landing_url": "https://inlead.digital/quiz-vsl-natalia",
+      "sample_display_format": "VIDEO",
+      "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 12,
+      "quiz_first_headings": [
+        "Descubra seu caminho para ganhar R$ 2.554 por semana sendo minha sócia no TikTok Shop"
+      ],
+      "quiz_steps_summary": [
+        {
+          "idx": 0,
+          "headings": [
+            "Descubra seu caminho para ganhar R$ 2.554 por semana sendo minha sócia no TikTok Shop"
+          ]
+        },
+        {
+          "idx": 1,
+          "headings": [
+            "🎁 PARABÉNS!",
+            "Você se compromete a responder esse mini quiz?"
+          ]
+        },
+        {
+          "idx": 2,
+          "headings": [
+            "Qual é a sua idade?"
+          ]
+        },
+        {
+          "idx": 3,
+          "headings": [
+            "Qual é o seu objetivo principal hoje?"
+          ]
+        },
+        {
+          "idx": 4,
+          "headings": [
+            "Qual a sua situação atual?"
+          ]
+        },
+        {
+          "idx": 5,
+          "headings": [
+            "Trabalhando o dia todo como CLT, qual é o seu maior desafio para conseguir focar em algo novo hoje?"
+          ]
+        },
+        {
+          "idx": 6,
+          "headings": [
+            "O que mais te MOTIVA a querer ganhar dinheiro online agora?"
+          ]
+        },
+        {
+          "idx": 7,
+          "headings": [
+            "Como você se sente em relação a ganhar dinheiro online HOJE?"
+          ]
+        },
+        {
+          "idx": 8,
+          "headings": [
+            "Você está satisfeita com a sua renda atual?"
+          ]
+        },
+        {
+          "idx": 9,
+          "headings": [
+            "O que te IMPEDIU de ganhar dinheiro na internet até agora?"
+          ]
+        },
+        {
+          "idx": 10,
+          "headings": [
+            "De 0 a 10, o quanto você quer NUNCA MAIS se preocupar com dinheiro no fim do mês?"
+          ]
+        },
+        {
+          "idx": 11,
+          "headings": [
+            "Qual é o seu \"Sonho de Vida\" que o dinheiro tornaria possível?"
+          ]
+        }
+      ],
+      "final_destination": "https://inlead.digital/quiz-vsl-natalia/",
+      "nicho": "Renda extra TikTok Shop"
+    },
+    {
+      "page": "Josy_semdiastase_Gi",
+      "pageId": "114462708385262",
+      "count": 3,
+      "longest_days": 125,
+      "avg_days": 75,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "Desenvolvi um método prático e acessível especialmente para mulheres com rotina intensa, que desejam se sentir mais leves, ativas e confiantes novamente 💫  Com apenas 5 minutos por dia, você segue treinos guiados em casa, no seu tempo, com foco em melhorar o abdômen, fortalecer o corpo e transformar a sua autoestima — sem precisar de academia. 🏠 Ideal para quem prefere treinar em casa. 🧘‍♀️ Respeita seu ritmo e sua rotina. 💬 Suporte diário e passo a passo simples de acompanhar.",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=827401230335835",
+      "sample_landing_url": "https://inlead.digital/desafio-7-em-7",
+      "sample_display_format": "VIDEO",
+      "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 12,
+      "quiz_first_headings": [
+        "Descubra como perder 7cm de barriga",
+        "em 7 dias!",
+        "Resultados reais para mães reais!"
+      ],
+      "quiz_steps_summary": [
+        {
+          "idx": 0,
+          "headings": [
+            "Descubra como perder 7cm de barriga",
+            "em 7 dias!"
+          ]
+        },
+        {
+          "idx": 1,
+          "headings": [
+            "Quantos anos você tem?"
+          ]
+        },
+        {
+          "idx": 2,
+          "headings": [
+            "Qual o seu peso atual?"
+          ]
+        },
+        {
+          "idx": 3,
+          "headings": [
+            "Qual é a sua altura?"
+          ]
+        },
+        {
+          "idx": 4,
+          "headings": [
+            "Você já tentou emagrecer outras vezes?"
+          ]
+        },
+        {
+          "idx": 5,
+          "headings": [
+            "Você tem diástase?"
+          ]
+        },
+        {
+          "idx": 6,
+          "headings": [
+            "Ao olhar a imagem, você se identifica com algum desses tipos?"
+          ]
+        },
+        {
+          "idx": 7,
+          "headings": [
+            "Você não está sozinha!"
+          ]
+        },
+        {
+          "idx": 8,
+          "headings": [
+            "Quanto tempo você consegue treinar por dia?"
+          ]
+        },
+        {
+          "idx": 9,
+          "headings": [
+            "Seu maior objetivo é..."
+          ]
+        },
+        {
+          "idx": 10,
+          "headings": [
+            "Qual seu maior desafio hoje?"
+          ]
+        },
+        {
+          "idx": 11,
+          "headings": [
+            "Você sente ansiedade, estresse ou preocupação excessiva?"
+          ]
+        }
+      ],
+      "final_destination": "https://inlead.digital/desafio-7-em-7/",
+      "nicho": "Diástase pós-parto (mães)"
+    },
+    {
+      "page": "Betina Foscarini - Fisioterapia em uroginecologia e obstetrícia",
+      "pageId": "959431477547279",
+      "count": 3,
+      "longest_days": 215,
+      "avg_days": 181,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "{{product.brand}}",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=1696302731304766",
+      "sample_landing_url": "https://inlead.digital/quiz-gestantes/",
+      "sample_display_format": "DCO",
+      "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 5,
+      "quiz_first_headings": [
+        "Fisio Pélvica para facilitar o parto:",
+        "Você vai receber um Plano de fisio pélvica para ter um parto mais fácil."
+      ],
+      "quiz_steps_summary": [
+        {
+          "idx": 0,
+          "headings": [
+            "Fisio Pélvica para facilitar o parto:",
+            "Você vai receber um Plano de fisio pélvica para ter um parto mais fácil."
+          ]
+        },
+        {
+          "idx": 1,
+          "headings": [
+            "Essa é sua primeira gestação?"
+          ]
+        },
+        {
+          "idx": 2,
+          "headings": [
+            "Você já fez fisioterapia pélvica?"
+          ]
+        },
+        {
+          "idx": 3,
+          "headings": [
+            "A Fisioterapia Pélvica tem exercícios que realmente funcionam para facilitar o parto."
+          ]
+        },
+        {
+          "idx": 4,
+          "headings": [
+            "Se você pudesse escolher o seu parto, qual seria?"
+          ]
+        }
+      ],
+      "final_destination": "https://inlead.digital/quiz-gestantes/",
+      "nicho": "Maternidade — fisio pélvica gestantes"
+    },
+    {
+      "page": "Duda Botolli",
+      "pageId": "112774185061604",
+      "count": 3,
+      "longest_days": 138,
+      "avg_days": 100,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=1416078480166484",
+      "sample_landing_url": "https://inlead.digital/canva-lucrativo-versao-02/",
+      "sample_display_format": "VIDEO",
+      "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 2,
+      "quiz_first_headings": [
+        "Descubra se você tem o PERFIL CERTO para ganhar até R$ 3.000 por mês criando designs simples no Canva (mesmo sendo iniciante)"
+      ],
+      "quiz_steps_summary": [
+        {
+          "idx": 0,
+          "headings": [
+            "Descubra se você tem o PERFIL CERTO para ganhar até R$ 3.000 por mês criando designs simples no Canva (mesmo sendo iniciante)"
+          ]
+        },
+        {
+          "idx": 1,
+          "headings": [
+            "Qual é a sua situação atual?"
+          ]
+        }
+      ],
+      "final_destination": "https://inlead.digital/canva-lucrativo-versao-02/",
+      "nicho": "Renda extra Canva (design)"
+    },
+    {
+      "page": "Jeff. O Editor",
+      "pageId": "440761149123673",
+      "count": 2,
+      "longest_days": 165,
+      "avg_days": 165,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "Aprenda a VIRALIZAR seus vídeos usando apenas o seu CELULAR por apenas 12x de 6,93 🔥  Se liga em tudo o que você terá de acesso:  ✅ Aulas do Zero ao Avançado ✅ Atualizações Mensais ✅ Legendas que Viralizam ✅ Efeitos que Mais Engajam  ✅ Ganchos Virais  Clica em Saiba Mais e acesse a página para fazer parte 🔥",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=25490303217229871",
+      "sample_landing_url": "https://inlead.digital/edicao-de-videos/",
+      "sample_display_format": "VIDEO",
+      "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 2,
+      "quiz_first_headings": [
+        "Tá cansado de postar um vídeo e ele NÃO VIRALIZAR?",
+        "Pare agora mesmo de ser ignorado pelo algoritmo...",
+        "Aprenda a viralizar seus vídeos usando apenas o seu celular 🤩"
+      ],
+      "quiz_steps_summary": [
+        {
+          "idx": 0,
+          "headings": [
+            "Tá cansado de postar um vídeo e ele NÃO VIRALIZAR?",
+            "Pare agora mesmo de ser ignorado pelo algoritmo..."
+          ]
+        },
+        {
+          "idx": 1,
+          "headings": [
+            "O que você acha que falta para você viralizar seus vídeos todos os dias?"
+          ]
+        }
+      ],
+      "final_destination": "https://inlead.digital/edicao-de-videos/",
+      "nicho": "Edição de vídeos / Reels"
+    },
+    {
+      "page": "Julio Balestrin",
+      "pageId": "620718637794817",
+      "count": 3,
+      "longest_days": 58,
+      "avg_days": 58,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "👕 Quer se sentir mais confiante ao tirar a camisa?  Muita gente treina e tenta ajustar a alimentação, mas sem um plano claro acaba não evoluindo.  Resultados consistentes vêm de processo, método e constância — não de atalhos.  O Hipertron é um plano estruturado para quem busca evolução física com organização e responsabilidade, respeitando o ritmo e a individualidade de cada pessoa.  Sem promessas irreais. Com direcionamento.",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=824977347312640",
+      "sample_landing_url": "https://inlead.digital/hipertron-quiz",
+      "sample_display_format": "VIDEO",
+      "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 6,
+      "quiz_first_headings": [
+        "Julio Balestrin e Renato Cariani querem fazer um projeto com você."
+      ],
+      "quiz_steps_summary": [
+        {
+          "idx": 0,
+          "headings": [
+            "Julio Balestrin e Renato Cariani querem fazer um projeto com você."
+          ]
+        },
+        {
+          "idx": 1,
+          "headings": [
+            "Antes de iniciarmos me conta uma coisa:"
+          ]
+        },
+        {
+          "idx": 2,
+          "headings": [
+            "Qual é a sua faixa de idade?"
+          ]
+        },
+        {
+          "idx": 3,
+          "headings": [
+            "Como você descreveria sua constituição física?"
+          ]
+        },
+        {
+          "idx": 4,
+          "headings": [
+            "Qual é o seu ideal de",
+            "Shape?"
+          ]
+        },
+        {
+          "idx": 5,
+          "headings": [
+            "Sua jornada até o seu corpo dos sonhos está prestes a começar!"
+          ]
+        }
+      ],
+      "final_destination": "https://inlead.digital/hipertron-quiz/",
+      "nicho": "Hipertrofia masculina"
+    },
+    {
+      "page": "Rafael Bem  Reels Pro",
+      "pageId": "102158314814765",
+      "count": 2,
+      "longest_days": 107,
+      "avg_days": 85,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "É Grátis, Faça Agora Mesmo",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=1729004311392996",
+      "sample_landing_url": "https://inlead.digital/rafael-bem-os-codigos-virais-br-v2-com-videos-htm",
+      "sample_display_format": "IMAGE",
+      "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 2,
+      "quiz_first_headings": [
+        "RECEBA UM DIAGNÓSTICO",
+        "DO SEU PERFIL E VIRALIZE SEGUINDO UM NOVO MÉTODO 🚀",
+        "Assista ao vídeo abaixo de"
+      ],
+      "quiz_steps_summary": [
+        {
+          "idx": 0,
+          "headings": [
+            "RECEBA UM DIAGNÓSTICO",
+            "DO SEU PERFIL E VIRALIZE SEGUINDO UM NOVO MÉTODO 🚀"
+          ]
+        },
+        {
+          "idx": 1,
+          "headings": [
+            "Você já produz conteúdo para o Instagram?"
+          ]
+        }
+      ],
+      "final_destination": "https://inlead.digital/rafael-bem-os-codigos-virais-br-v2-com-videos-htm/",
+      "nicho": "Outro"
+    },
+    {
+      "page": "Matheusadestra  Adestrador",
+      "pageId": "377671669483886",
+      "count": 2,
+      "longest_days": 90,
+      "avg_days": 90,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "Eu duvido você não resolver o problema do xixi e coco!  5 Minutos para resolver o drama do xixi!  Você sabia que já existem mais de 8 mil casos resolvidos com esse método? 🐾 E agora é a sua vez!   Em apenas três passinhos simples, você vai descobrir como:   ✅ Ensinar seu bichinho a fazer as necessidades no lugar certo  ✅ Dizer adeus aos acidentes fora do lugar de uma vez por todas ✅ Fazer com que seu cão seja ainda mais amigo e obediente  E o melhor? Funciona pra qualquer tipo de pet, não import",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=4242308856025970",
+      "sample_landing_url": "https://inlead.digital/lowticket-xixi-v3",
+      "sample_display_format": "VIDEO",
+      "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 3,
+      "quiz_first_headings": [
+        "DESCUBRA PORQUE SEU CACHORRO FAZ XIXI E COCÔ NO LUGAR ERRADO!"
+      ],
+      "quiz_steps_summary": [
+        {
+          "idx": 0,
+          "headings": [
+            "DESCUBRA PORQUE SEU CACHORRO FAZ XIXI E COCÔ NO LUGAR ERRADO!"
+          ]
+        },
+        {
+          "idx": 1,
+          "headings": [
+            "Esse método resolve casos já no primeiro dia!",
+            "Se você está cansada de limpar sujeira de cachorro, é só apertar em continuar que vou revelar todo o passo a passo para você ter uma casa sempre limpa e cheirosa!"
+          ]
+        },
+        {
+          "idx": 2,
+          "headings": [
+            "Não se preocupe, o método que vou te passar pode ser aplicado por qualquer pessoa, mesmo que nunca tenha adestrado um cachorro antes."
+          ]
+        }
+      ],
+      "final_destination": "https://inlead.digital/lowticket-xixi-v3/",
+      "nicho": "Adestramento de cães"
+    },
+    {
+      "page": "TÔ SOLT0",
+      "pageId": "666285833240538",
+      "count": 3,
+      "longest_days": 40,
+      "avg_days": 35,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "Entenda em menos de 3 minutos o sistema 6x de vendas automáticas em dólar e comece hoje mesmo sendo iniciante ...   💸 Se você quer aprender a ganhar em dólar em 2026 — essa é, sem exagero, a maior oportunidade que você vai encontrar para começar do jeito certo.  Pela primeira vez, estou abrindo um acesso especial para você entrar na minha estrutura completa de ganhos em dólar, pelo menor valor já liberado.  E além disso, você ainda concorre a uma viagem de luxo para Dubai com tudo pago, ou 5 sal",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=972771278808820",
+      "sample_landing_url": "https://inlead.digital/dolar-club-aula",
+      "sample_display_format": "VIDEO",
+      "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 3,
+      "quiz_first_headings": [
+        "Descubra Seu Caminho Para Ganhar $150 a $350 Dólares por Dia com esse Sistema Automático De Renda em Dólar"
+      ],
+      "quiz_steps_summary": [
+        {
+          "idx": 0,
+          "headings": [
+            "Descubra Seu Caminho Para Ganhar $150 a $350 Dólares por Dia com esse Sistema Automático De Renda em Dólar"
+          ]
+        },
+        {
+          "idx": 1,
+          "headings": [
+            "🎁 PARABÉNS! Você vai ganhar um presente especial ao final desse quiz!",
+            "Você se compromete a responder esse mini quiz?"
+          ]
+        },
+        {
+          "idx": 2,
+          "headings": [
+            "Você é?"
+          ]
+        }
+      ],
+      "final_destination": "https://inlead.digital/dolar-club-aula/",
+      "nicho": "Renda em dólar (afiliação)"
+    },
+    {
+      "page": "Oxy Câmaras Hiperbáricas",
+      "pageId": "670512899800934",
+      "count": 2,
+      "longest_days": 80,
+      "avg_days": 77,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "A oxigenoterapia hiperbárica é um dos serviços médicos que mais crescem no Brasil. Com a OXY Câmaras Hiperbáricas, sua clínica pode: ✔️ Atrair novos pacientes ✔️ Gerar receita adicional recorrente ✔️ Ampliar seu portfólio com inovação reconhecida  📲 VEJA A MELHOR OPÇÃO: fale agora com nossa equipe e descubra o potencial de faturamento da OXY.  📌 OXY Câmaras Hiperbáricas – Tecnologia que inspira ciência e transforma práticas médicas. 📍 Av. Brg. Faria Lima, 1234 – Jardim Paulistano, São Paulo – SP",
+      "sample_cta_type": "DOWNLOAD",
+      "sample_cta_text": "Download",
+      "sample_url": "https://www.facebook.com/ads/library/?id=789856264189672",
+      "sample_landing_url": "https://inlead.digital/funil-oxy-camaras-ebook-pos-lipo",
+      "sample_display_format": "VIDEO",
+      "platforms": "FACEBOOK+INSTAGRAM+THREADS",
+      "quiz_steps_mapped": 0,
+      "quiz_first_headings": [],
+      "quiz_steps_summary": [],
+      "final_destination": "(unknown — stayed on inlead)",
+      "nicho": "Câmara hiperbárica B2B"
+    },
+    {
+      "page": "DA ÁGUA PRO VINHO",
+      "pageId": "153461285176185",
+      "count": 2,
+      "longest_days": 228,
+      "avg_days": 215,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "Você sabia que o seu nome e data de nascimento podem revelar por que certos padrões se repetem na sua vida, nos relacionamentos, no trabalho e até nas finanças?  Nesta quinta-feira, vou vai abrir uma live exclusiva para te mostrar o que esses números dizem sobre os seus caminhos e sua prosperidade. 🔥  👉 Garanta sua vaga no grupo e receba o link da transmissão!",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=861422269552739",
+      "sample_landing_url": "https://inlead.digital/da-agua-pro-vinho",
+      "sample_display_format": "VIDEO",
+      "platforms": "FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 1,
+      "quiz_first_headings": [
+        "Mentoria Numerológica 4",
+        "Looks like you don't have WhatsApp installed!"
+      ],
+      "quiz_steps_summary": [
+        {
+          "idx": 0,
+          "headings": [
+            "Mentoria Numerológica 4",
+            "Looks like you don't have WhatsApp installed!"
+          ]
+        }
+      ],
+      "final_destination": "https://chat.whatsapp.com/Dy4OZ3ztroh5TdpMPMOO5C",
+      "nicho": "Numerologia / espiritualidade"
+    },
+    {
+      "page": "Renato Cariani",
+      "pageId": "1483916388309700",
+      "count": 2,
+      "longest_days": 56,
+      "avg_days": 38,
+      "domains": [
+        "api.whatsapp.com",
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital",
+        "truque"
+      ],
+      "sample_hook": "Para quem já tentou de TUDO para emagrecer e falhou: A ciência por trás do método que elimina a gordura teimosa sem cortar carboidratos e sem efeito sanfona.",
+      "sample_cta_type": "WHATSAPP_MESSAGE",
+      "sample_cta_text": "Send WhatsApp message",
+      "sample_url": "https://www.facebook.com/ads/library/?id=1422733166535312",
+      "sample_landing_url": "https://api.whatsapp.com/send",
+      "sample_display_format": "VIDEO",
+      "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 0,
+      "quiz_first_headings": [],
+      "quiz_steps_summary": [],
+      "final_destination": "(unknown — stayed on inlead)",
+      "nicho": "Emagrecimento"
+    },
+    {
+      "page": "PH o Trader",
+      "pageId": "946423281881652",
+      "count": 2,
+      "longest_days": 39,
+      "avg_days": 39,
+      "domains": [
+        "phlanding.vercel.app",
+        "phoficial.com.br"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "método secreto"
+      ],
+      "sample_hook": "Esse script secreto está ajudando diversos usuários a potencializarem seus resultados de forma consistente.  O acesso foi liberado por tempo limitado. Quer entender como ele funciona na prática e como acessar? Clique em Saiba Mais.",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=1496734182160670",
+      "sample_landing_url": "https://phlanding.vercel.app/",
+      "sample_display_format": "VIDEO",
+      "platforms": "AUDIENCE_NETWORK+FACEBOOK+INSTAGRAM+MESSENGER+THREADS",
+      "quiz_steps_mapped": 0,
+      "quiz_first_headings": [],
+      "quiz_steps_summary": [],
+      "final_destination": "(unknown — stayed on inlead)",
+      "nicho": "Outro"
+    },
+    {
+      "page": "Bia Honorio",
+      "pageId": "318278391375605",
+      "count": 2,
+      "longest_days": 3,
+      "avg_days": 3,
+      "domains": [
+        "inlead.digital"
+      ],
+      "has_quiz_signal": true,
+      "has_checkout_signal": false,
+      "has_vsl_signal": false,
+      "queries_matched": [
+        "inlead.digital"
+      ],
+      "sample_hook": "",
+      "sample_cta_type": "LEARN_MORE",
+      "sample_cta_text": "Learn more",
+      "sample_url": "https://www.facebook.com/ads/library/?id=1902019373820599",
+      "sample_landing_url": "https://inlead.digital/biancahonoriosda",
+      "sample_display_format": "VIDEO",
+      "platforms": "FACEBOOK+INSTAGRAM",
+      "quiz_steps_mapped": 0,
+      "quiz_first_headings": [],
+      "quiz_steps_summary": [],
+      "final_destination": "(unknown — stayed on inlead)",
+      "nicho": "Outro"
+    }
+  ],
+  "total_unique_ads": 693,
+  "total_pages": 111,
+  "queries_run": [
+    "30 segundos",
+    "antes de dormir",
+    "cientistas descobriram",
+    "descoberta",
+    "descubra seu perfil",
+    "ingrediente secreto",
+    "inlead.digital",
+    "método secreto",
+    "qual é o seu",
+    "receita caseira",
+    "ritual matinal",
+    "teste gratuito",
+    "todas as manhãs",
+    "truque"
+  ]
+}

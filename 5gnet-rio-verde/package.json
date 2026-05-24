@@ -1,0 +1,23 @@
+{
+  "name": "5gnet-rio-verde-video",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.ts",
+    "build": "remotion render src/index.ts FivegnetVideo out/5gnet-rio-verde.mp4",
+    "build:fast": "remotion render src/index.ts FivegnetVideo out/5gnet-rio-verde.mp4 --concurrency=4 --jpeg-quality=80"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.220",
+    "@remotion/tailwind": "4.0.220",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.220"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "@types/react-dom": "19.0.0",
+    "tailwindcss": "3.4.17",
+    "typescript": "5.6.3"
+  }
+}
